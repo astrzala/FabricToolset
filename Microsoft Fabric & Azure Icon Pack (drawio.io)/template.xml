@@ -9,9 +9,9 @@
   <add>Uhttps://raw.githubusercontent.com/astrzala/FabricToolset/main/Microsoft%20Fabric%20%26%20Azure%20Icon%20Pack%20(drawio.io)/xml/Azure_Core.xml</add>
   <add>Uhttps://raw.githubusercontent.com/astrzala/FabricToolset/main/Microsoft%20Fabric%20%26%20Azure%20Icon%20Pack%20(drawio.io)/xml/Azure_DevOps.xml</add>
 </clibs>
-<template section="Microsoft" url=""
+<template section="Microsoft" url="https://github.com/astrzala/FabricToolset/blob/main/Microsoft%20Fabric%20%26%20Azure%20Icon%20Pack%20(drawio.io)/Microsoft%20Fabric%20Icon%20Pack.drawio"
   preview="" 
-  title="Microsoft Fabric &amp; Azure Icon Pack"
+  title="Microsoft Fabric"
   libs=""
   clibs="Fabric"
   tags="fabric;microsoft;azure"/>
