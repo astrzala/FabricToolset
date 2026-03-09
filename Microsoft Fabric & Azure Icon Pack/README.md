@@ -38,6 +38,7 @@ If the libraries do not load automatically:
 4. Select the downloaded library  
 
 </br>
+
 ## 📦 What's Included
 
 | Library | Icons |
@@ -49,10 +50,3 @@ If the libraries do not load automatically:
 | Azure DevOps | 7 |
 | Azure Core | 55 |
 
-
-
-
-## License
-
-Microsoft service icons remain the property of **Microsoft**.  
-This repository distributes them only for **architecture diagram usage and convenience**.
