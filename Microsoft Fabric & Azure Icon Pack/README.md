@@ -28,7 +28,7 @@ If the libraries do not load automatically:
 2. Go to **Configuration**
 3. Import the library file
 
-</br></br>
+</br>
 
 ### 💻 Draw.io Desktop
 
