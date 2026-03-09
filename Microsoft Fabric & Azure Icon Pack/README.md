@@ -22,11 +22,18 @@ Open the library link and it should load automatically:
 
 </br>
 
-If the libraries do not load automatically:
-
-1. Open **draw.io**
+If the libraries do not load automatically
+1. Open **[draw.io](https://app.diagrams.net)**
 2. Go to **Configuration**
-3. Import the library file
+3. Paste the following configuration:
+
+```json
+{
+  "templateFile": "https://raw.githubusercontent.com/astrzala/FabricToolset/main/Microsoft%20Fabric%20%26%20Azure%20Icon%20Pack/template/template.xml"
+}
+```
+4. Click **Apply**
+5. Then create a new diagram using the template **File → Microsoft → Select the template → Create**
 
 </br>
 
