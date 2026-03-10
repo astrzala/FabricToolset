@@ -34,7 +34,7 @@ If the libraries do not load automatically
 ```
 4. Click **Apply**
 5. Refresh the page if needed
-6. Then create a new diagram using the template **File → Microsoft → Select the template → Create**
+6. Then create a new diagram using the template **File → New... → Microsoft → Select the template "Microsoft Fabric" → Create**
 
 </br>
 
