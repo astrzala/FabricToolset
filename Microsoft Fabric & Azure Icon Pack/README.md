@@ -24,7 +24,7 @@ Open the library link and it should load automatically:
 
 If the libraries do not load automatically
 1. Open **[draw.io](https://app.diagrams.net)**
-2. Go to **Extras → Configuration**
+2. Go to **Extras → Configuration → JSON**
 3. Paste the following configuration:
 
 ```json
