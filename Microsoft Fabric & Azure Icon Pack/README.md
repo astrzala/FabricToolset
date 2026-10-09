@@ -52,7 +52,7 @@ If the libraries do not load automatically
 | Library | Icons |
 |--------|------|
 | Fabric Core + Microsoft Tools | 28 |
-| Fabric Artifacts | 106 |
+| Fabric Artifacts | 105 |
 | Fabric Datasources | 87 |
 | Fabric Black | 45 |
 | Azure DevOps | 7 |
