@@ -56,7 +56,7 @@ If the libraries do not load automatically
 | Fabric Datasources | 88 |
 | Fabric Black | 45 |
 | Azure DevOps | 7 |
-| Azure Core | 72 |
+| Azure Core | 73 |
 | Azure AI | 6 |
 
 ## 🧩 Loaded Template
